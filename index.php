@@ -29,7 +29,7 @@ try {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- ✅ Judul utama -->
-    <title>Dealer Hino Tangerang | Info Pemesanan Hubungi 0819-1119-0933</title>
+    <title>Dealer Hino Resmi | Info Pemesanan Hubungi 0819-1119-0933</title>
 
     <!-- ✅ Deskripsi SEO -->
     <meta name="description" content="Dealer Hino Tangerang Resmi — Hubungi 0819-1119-0933 untuk info harga, promo, dan pembelian truk Hino di wilayah Tangerang dan sekitarnya. Layanan cepat dan terpercaya.">
@@ -37,7 +37,7 @@ try {
     <meta name="author" content="Dealer Hino Tangerang">
 
     <!-- ✅ Canonical URL -->
-    <link rel="canonical" href="https://official-hino.com/" />
+    <link rel="canonical" href="https://infohino.com/" />
 
     <!-- ✅ Tambahkan ini agar judul 'Dealer Hino Tangerang' muncul di atas domain (seperti di Indomobil Hino) -->
     <meta name="application-name" content="Dealer Hino Tangerang">
@@ -47,9 +47,9 @@ try {
     <meta property="og:site_name" content="Dealer Hino Tangerang">
     <meta property="og:title" content="Dealer Hino Tangerang | Info Pemesanan Hubungi 0819-1119-0933">
     <meta property="og:description" content="Dealer Hino Tangerang Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
-    <meta property="og:url" content="https://official-hino.com/">
+    <meta property="og:url" content="https://infohino.com/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://official-hino.com/img/hino.png">
+    <meta property="og:image" content="https://infohino.com/img/hino.png">
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />
@@ -84,7 +84,7 @@ try {
     <header>
       <div class="container header-content navbar">
         <div class="header-title">
-          <a href="https://official-hino.com">
+          <a href="https://infohino.com">
             <img src="img/logo3.png" alt="Logo Hino" style="height: 60px" />
           </a>
         </div>
@@ -177,7 +177,7 @@ try {
         <div class="product">
           <img src="img/hino300produk.png" alt="Hino 300 Dutro" loading="lazy" />
           <h3>
-            <a href="https://official-hino.com/hino300.php" target="_blank" rel="noopener noreferrer">Hino 300 Series (Dutro)</a>
+            <a href="https://infohino.com/hino300.php" target="_blank" rel="noopener noreferrer">Hino 300 Series (Dutro)</a>
           </h3>
           <p>Truk ringan dan tangguh, cocok untuk usaha kecil dan menengah.</p>
         </div>
@@ -185,7 +185,7 @@ try {
         <div class="product">
           <img src="img/hino500produk.png" alt="Hino 500 Ranger" loading="lazy" />
           <h3>
-            <a href="https://official-hino.com/hino500.php" target="_blank" rel="noopener noreferrer">Hino 500 Series (Ranger)</a>
+            <a href="https://infohino.com/hino500.php" target="_blank" rel="noopener noreferrer">Hino 500 Series (Ranger)</a>
           </h3>
           <p>Performa handal untuk pengangkutan berat dan jarak jauh.</p>
         </div>
@@ -193,7 +193,7 @@ try {
         <div class="product">
           <img src="img/hinobusproduk.png" alt="Hino Bus Series" loading="lazy" />
           <h3>
-            <a href="https://official-hino.com/hinobus.php" target="_blank" rel="noopener noreferrer">Hino Bus Series</a>
+            <a href="https://infohino.com/hinobus.php" target="_blank" rel="noopener noreferrer">Hino Bus Series</a>
           </h3>
           <p>Solusi transportasi penumpang dengan kenyamanan terbaik.</p>
         </div>
@@ -260,7 +260,7 @@ try {
             <?php foreach ($artikelData as $artikel): ?>
               <div class="blog-card">
                 <img 
-                  src="https://official-hino.com/admin/uploads/artikel/<?= htmlspecialchars($artikel['gambar']) ?>"
+                  src="https://infohino.com/admin/uploads/artikel/<?= htmlspecialchars($artikel['gambar']) ?>"
                   alt="<?= htmlspecialchars($artikel['judul']) ?>" 
                   loading="lazy"
                 />
