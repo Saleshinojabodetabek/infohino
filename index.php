@@ -63,7 +63,6 @@ try {
     <link rel="stylesheet" href="css/home_css/about.css" />
     <link rel="stylesheet" href="css/home_css/layanan.css" />
     <link rel="stylesheet" href="css/home_css/produk.css" />
-    <link rel="stylesheet" href="css/home_css/keunggulankami.css" />
     <link rel="stylesheet" href="css/home_css/contact.css" />
     <link rel="stylesheet" href="css/home_css/blogcard.css" />
 
@@ -201,6 +200,17 @@ try {
       </div>
     </section>
 
+    <!-- Hino Banner Section -->
+    <section class="hino-banner-section">
+      <div class="hino-banner-container">
+        <div class="hino-banner">
+          <img src="img/dealer-hino-tangerang-promo1.jpg" alt="Jaringan Dealer Hino">
+        </div>
+        <div class="hino-banner">
+          <img src="img/dealer-hino-tangerang-layanan1.jpg" alt="Layanan Purna Jual Hino">
+        </div>
+      </div>
+    </section>
 
     <!-- Contact Section -->
     <div class="contact-container fade-element">

@@ -146,3 +146,42 @@
     background-size: 8px 8px;
   }
 }
+
+.hino-banner-section {
+  background-color: #111;
+  padding: 40px 0;
+}
+
+.hino-banner-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  width: 90%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.hino-banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.hino-banner img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.5);
+}
+
+/* Responsif untuk tablet dan HP */
+@media (max-width: 900px) {
+  .hino-banner-container {
+    grid-template-columns: 1fr;
+  }
+
+  .hino-banner img {
+    border-radius: 12px;
+  }
+}
