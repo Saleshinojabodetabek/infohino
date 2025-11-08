@@ -29,10 +29,10 @@ try {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- ✅ Judul utama -->
-    <title>Dealer Hino Tangerang | Info Pemesanan Hubungi 0812-1905-5571</title>
+    <title>Dealer Hino Tangerang | Info Pemesanan Hubungi 0819-1119-0933</title>
 
     <!-- ✅ Deskripsi SEO -->
-    <meta name="description" content="Dealer Hino Tangerang Resmi — Hubungi 0812-1905-5571 untuk info harga, promo, dan pembelian truk Hino di wilayah Tangerang dan sekitarnya. Layanan cepat dan terpercaya.">
+    <meta name="description" content="Dealer Hino Tangerang Resmi — Hubungi 0819-1119-0933 untuk info harga, promo, dan pembelian truk Hino di wilayah Tangerang dan sekitarnya. Layanan cepat dan terpercaya.">
     <meta name="keywords" content="dealer hino tangerang, hino tangerang, sales hino tangerang, harga truk hino, promo hino, kredit truk hino, hino resmi tangerang">
     <meta name="author" content="Dealer Hino Tangerang">
 
@@ -45,8 +45,8 @@ try {
 
     <!-- ✅ Open Graph untuk tampilan di Google / Facebook / WhatsApp -->
     <meta property="og:site_name" content="Dealer Hino Tangerang">
-    <meta property="og:title" content="Dealer Hino Tangerang | Info Pemesanan Hubungi 0812-1905-5571">
-    <meta property="og:description" content="Dealer Hino Tangerang Resmi. Hubungi 0812-1905-5571 untuk promo dan harga truk Hino terbaru.">
+    <meta property="og:title" content="Dealer Hino Tangerang | Info Pemesanan Hubungi 0819-1119-0933">
+    <meta property="og:description" content="Dealer Hino Tangerang Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
     <meta property="og:url" content="https://official-hino.com/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://official-hino.com/img/hino.png">
@@ -128,8 +128,8 @@ try {
             Hubungi <strong>Nisa Sales Hino</strong> sekarang juga untuk mendapatkan <strong>penawaran harga Hino terbaik 2025</strong>, promo kredit ringan, dan informasi lengkap seputar <strong>truk Hino terbaru</strong>. Nisa siap membantu Anda menemukan kendaraan Hino yang paling sesuai dengan kebutuhan bisnis di Jakarta, Tangerang, Bekasi, Bogor, dan seluruh area Jabodetabek.
             </p>
             <div class="contact-buttons">
-              <a href="https://wa.me/6285975287684" class="btn whatsapp-btn"><i class="fab fa-whatsapp"></i> +62 859-7528-7684</a>
-              <a href="mailto:saleshinojabodetabek@gmail.com" class="btn email-btn"><i class="fas fa-envelope"></i> saleshinojabodetabek@gmail.com</a>
+              <a href="https://wa.me/6281911190933" class="btn whatsapp-btn"><i class="fab fa-whatsapp"></i>Whatsapp</a>
+              <a href="mailto:29hairun.nisa@gmail.com" class="btn email-btn"><i class="fas fa-envelope"></i>Gmail</a>
             </div>
           </div>
           <div class="image-gallery">
@@ -223,7 +223,7 @@ try {
           <img src="img/cssupport.png" alt="WhatsApp" />
           <div>
             <strong>Whatsapp</strong><br />
-            +62 812-1905-5571
+            +62 819-1119-0933
           </div>
         </div>
 
@@ -233,7 +233,7 @@ try {
           <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone" />
           <div>
             <strong>Phone Call</strong><br />
-            +62 812-1905-5571
+            +62 819-1119-0933
           </div>
         </div>
 
@@ -243,7 +243,7 @@ try {
           <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" />
           <div>
             <strong>Email</strong><br />
-            denishinoindonesia@gmail.com
+            29hairun.nisa@gmail.com
           </div>
         </div>
       </div>
