@@ -133,7 +133,7 @@ try {
             </div>
           </div>
           <div class="image-gallery">
-            <img src="images/promohino.jpeg" alt="Promo Hino" />
+            <img src="images/bannerhino2.png" alt="Promo Hino" />
           </div>
           </div>
         </div>
