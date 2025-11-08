@@ -1,20 +1,19 @@
 <?php
-// ====== RESET PASSWORD ADMIN MENGGUNAKAN PDO ======
-// File ini harus dihapus setelah digunakan demi keamanan.
+// ============= RESET PASSWORD ADMIN (HAPUS SETELAH DIGUNAKAN) ============= //
 
-require_once "config.php"; // pastikan path benar
+require_once "config.php"; // sesuaikan lokasi jika perlu
 
-// Siapkan password baru (MD5)
-$passwordBaru = md5("Inf0H1n0011@@");
+// Password baru dengan bcrypt
+$passwordBaru = password_hash("Inf0H1n0011@@", PASSWORD_BCRYPT);
 
-// Ganti sesuai nama tabel dan kolom Anda
-$tabelAdmin = "admin";      // contoh: admin
-$kolomUser  = "username";   // contoh: username
-$kolomPass  = "password";   // contoh: password
-$username   = "admin";      // username target yang mau direset
+// Nama tabel dan kolom
+$tabel = "users";
+$kolomUser = "username";
+$kolomPass = "password";
+$username = "admin";
 
 try {
-    $sql = "UPDATE {$tabelAdmin} SET {$kolomPass} = :pass WHERE {$kolomUser} = :user";
+    $sql = "UPDATE {$tabel} SET {$kolomPass} = :pass WHERE {$kolomUser} = :user";
     $stmt = $pdo->prepare($sql);
     $stmt->execute([
         ":pass" => $passwordBaru,
@@ -23,12 +22,13 @@ try {
 
     if ($stmt->rowCount() > 0) {
         echo "Password admin berhasil diubah menjadi <b>Inf0H1n0011@@</b><br>";
-        echo "SEGERA HAPUS file ini (ubah_password.php) dari server!";
+        echo "SEGERA hapus file ini (ubah_password.php) dari server!";
     } else {
-        echo "Password tidak berubah. Periksa nama tabel dan kolom.<br>";
-        echo "Tabel: {$tabelAdmin}, Kolom username: {$kolomUser}, Kolom password: {$kolomPass}";
+        echo "Password TIDAK berubah. Periksa apakah username sudah benar (admin).";
     }
+
 } catch (Exception $e) {
-    echo "Terjadi error: " . $e->getMessage();
+    echo "Error: " . $e->getMessage();
 }
+
 ?>
