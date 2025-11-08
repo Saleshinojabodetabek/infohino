@@ -170,6 +170,18 @@ try {
       </div>
     </section>
 
+    <!-- Hino Banner Section -->
+    <section class="hino-banner-section">
+      <div class="hino-banner-container">
+        <div class="hino-banner">
+          <img src="img/dealer-hino-tangerang-promo1.jpg" alt="Jaringan Dealer Hino">
+        </div>
+        <div class="hino-banner">
+          <img src="img/dealer-hino-tangerang-layanan1.jpg" alt="Layanan Purna Jual Hino">
+        </div>
+      </div>
+    </section>
+
     <!-- Produk -->
     <section id="products-section" class="products-section fade-element">
       <h2 class="section-title">Produk Truk Hino Unggulan</h2>
@@ -196,18 +208,6 @@ try {
             <a href="https://official-hino.com/hinobus.php" target="_blank" rel="noopener noreferrer">Hino Bus Series</a>
           </h3>
           <p>Solusi transportasi penumpang dengan kenyamanan terbaik.</p>
-        </div>
-      </div>
-    </section>
-
-    <!-- Hino Banner Section -->
-    <section class="hino-banner-section">
-      <div class="hino-banner-container">
-        <div class="hino-banner">
-          <img src="img/dealer-hino-tangerang-promo1.jpg" alt="Jaringan Dealer Hino">
-        </div>
-        <div class="hino-banner">
-          <img src="img/dealer-hino-tangerang-layanan1.jpg" alt="Layanan Purna Jual Hino">
         </div>
       </div>
     </section>
