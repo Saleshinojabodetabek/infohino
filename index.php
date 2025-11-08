@@ -60,7 +60,7 @@ try {
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/navbar.css" />
     <link rel="stylesheet" href="css/home_css/header.css" />
-    <link rel="stylesheet" href="css/home_css/promoutama.css" />
+    <link rel="stylesheet" href="css/home_css/about.css" />
     <link rel="stylesheet" href="css/home_css/layanan.css" />
     <link rel="stylesheet" href="css/home_css/produk.css" />
     <link rel="stylesheet" href="css/home_css/keunggulankami.css" />
@@ -112,26 +112,30 @@ try {
       </div>
     </section>
 
-    <!-- Section: Promo Utama -->
-    <section id="promo-utama" class="promo-section fade-element">
-      <div class="promo-text">
-        <h2>Dapatkan Harga dan Penawaran Terbaik Langsung dari Dealer Resmi Hino Tangerang</h2>
-        <ul>
-          <li>Ingin harga terbaik untuk semua jenis truk Hino?</li>
-          <li>Bingung memilih kendaraan yang tepat untuk bisnis Anda?</li>
-          <li>Butuh pelayanan cepat, ramah, dan profesional?</li>
-          <li>Hubungi Dennis sekarang juga dan dapatkan solusi terbaik!</li>
-        </ul>
-        <p>
-          Denis Hino siap membantu Anda mendapatkan truk Hino baru dengan harga kompetitif untuk seluruh Indonesia,
-          <strong>terutama di Tangerang</strong>. Pelayanan cepat, terpercaya, dan tanpa ribet menanti Anda!
-        </p>
-        <div class="promo-buttons">
-          <a href="https://wa.me/6281219055571" class="btn-primary" target="_blank" rel="noopener noreferrer">Konsultasi Pembelian</a>
+    <!-- About Company -->
+    <section class="about-company">
+      <div class="container">
+        <div class="about-content">
+          <div class="text">
+            <h2>Dealer Hino Indonesia</h2>
+            <div class="divider"></div>
+            <p>
+            Nathan adalah sales <strong>Dealer Hino Indonesia</strong> yang berpengalaman dan profesional, siap menjadi mitra terbaik Anda dalam memenuhi kebutuhan kendaraan niaga. Sebagai sales <strong>dealer Hino Jakarta</strong> dan area sekitarnya, Nathan menyediakan berbagai model truk dan bus Hino dengan pelayanan cepat, ramah, dan solusi pembiayaan fleksibel untuk setiap jenis usaha. Jika Anda sedang mencari <strong>dealer Hino terdekat</strong>, Nathan siap membantu dengan respons cepat dan penawaran terbaik.
+            </p>
+            <p>
+            Komitmen Nathan sebagai sales <strong>dealer resmi Hino Indonesia</strong> adalah memberikan lebih dari sekadar penjualan. Nathan hadir untuk membangun hubungan jangka panjang melalui layanan purna jual (after-sales) yang responsif, konsultasi kebutuhan armada yang akurat, serta promo dan harga terbaik. Percayakan kebutuhan truk dan bus Hino Anda kepada <strong>Nathan – Dealer Hino Jabodetabek</strong>, dan rasakan pengalaman membeli yang aman, nyaman, serta menguntungkan.
+            </p>
+            <div class="contact-buttons">
+              <a href="https://wa.me/6285975287684" class="btn whatsapp-btn"><i class="fab fa-whatsapp"></i> +62 859-7528-7684</a>
+              <a href="mailto:saleshinojabodetabek@gmail.com" class="btn email-btn"><i class="fas fa-envelope"></i> saleshinojabodetabek@gmail.com</a>
+            </div>
+          </div>
+          <div class="image-gallery">
+            <img src="images/promohino.jpeg" alt="Promo Hino" />
+          </div>
+          </div>
         </div>
-      </div>
-      <img src="img/hino.png" alt="Truk Hino Hijau" loading="lazy" class="promo-main-image" />
-    </section>
+      </section>
 
     <!-- BAGIAN PRODUK & LAYANAN -->
     <section class="hino-section-produk fade-element">
