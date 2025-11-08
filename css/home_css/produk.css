@@ -1,8 +1,8 @@
 /* === PRODUCTS SECTION === */
 .products-section {
   text-align: center;
-  margin: 0 auto 3rem;
-  padding: 0 1rem;
+  margin: 4rem auto 3rem; /* 🔹 tambah jarak atas (4rem) */
+  padding: 2rem 1rem 0; /* 🔹 padding atas 2rem untuk ruang dalam */
 }
 
 .products-section .section-title {
@@ -35,7 +35,7 @@
 
 .product img {
   width: 100%;
-  height: auto; /* tinggi menyesuaikan proporsi gambar */
+  height: auto;
   display: block;
   border-bottom: 3px solid #b80000;
   border-radius: 6px 6px 0 0;
@@ -60,25 +60,25 @@
   .products {
     flex-direction: column;
     align-items: center;
-    gap: 1.5rem; /* lebih rapih jarak antar produk */
+    gap: 1.5rem;
   }
 
   .product {
-    max-width: 95%; /* lebih luas, biar judul tidak terpotong */
-    flex: none; /* hentikan fleksibel agar ukuran sesuai max-width */
+    max-width: 95%;
+    flex: none;
   }
 
   .product img {
     width: 100%;
     height: auto;
     border-radius: 6px 6px 0 0;
-    object-fit: cover; /* biar tetap proporsional */
+    object-fit: cover;
   }
 
   .product h3 {
-    font-size: 18px; /* tetap terlihat jelas */
+    font-size: 18px;
     margin: 0.8rem 0 0.5rem;
-    word-wrap: break-word; /* pastikan teks panjang tetap muncul */
+    word-wrap: break-word;
   }
 
   .product p {
