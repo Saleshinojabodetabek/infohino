@@ -117,13 +117,16 @@ try {
       <div class="container">
         <div class="about-content">
           <div class="text">
-            <h2>Dealer Hino Indonesia</h2>
+            <h2>Dealer Hino Resmi</h2>
             <div class="divider"></div>
             <p>
-            Nathan adalah sales <strong>Dealer Hino Indonesia</strong> yang berpengalaman dan profesional, siap menjadi mitra terbaik Anda dalam memenuhi kebutuhan kendaraan niaga. Sebagai sales <strong>dealer Hino Jakarta</strong> dan area sekitarnya, Nathan menyediakan berbagai model truk dan bus Hino dengan pelayanan cepat, ramah, dan solusi pembiayaan fleksibel untuk setiap jenis usaha. Jika Anda sedang mencari <strong>dealer Hino terdekat</strong>, Nathan siap membantu dengan respons cepat dan penawaran terbaik.
+            Nisa adalah <strong>sales dealer Hino Indonesia</strong> yang berpengalaman, terpercaya, dan profesional, siap menjadi mitra terbaik Anda dalam memenuhi setiap kebutuhan kendaraan niaga. Sebagai <strong>sales dealer Hino Jakarta</strong> dan wilayah sekitarnya, Nisa menyediakan berbagai pilihan truk dan bus Hino berkualitas dengan layanan cepat, ramah, serta solusi pembiayaan yang fleksibel sesuai kebutuhan bisnis Anda. Jika Anda sedang mencari <strong>dealer Hino terdekat</strong> dengan pelayanan terbaik, Nisa siap memberikan respon cepat dan penawaran harga spesial.
             </p>
             <p>
-            Komitmen Nathan sebagai sales <strong>dealer resmi Hino Indonesia</strong> adalah memberikan lebih dari sekadar penjualan. Nathan hadir untuk membangun hubungan jangka panjang melalui layanan purna jual (after-sales) yang responsif, konsultasi kebutuhan armada yang akurat, serta promo dan harga terbaik. Percayakan kebutuhan truk dan bus Hino Anda kepada <strong>Nathan – Dealer Hino Jabodetabek</strong>, dan rasakan pengalaman membeli yang aman, nyaman, serta menguntungkan.
+            Komitmen Nisa sebagai <strong>sales resmi dealer Hino Indonesia</strong> adalah memberikan pelayanan lebih dari sekadar penjualan. Nisa hadir untuk membangun hubungan jangka panjang melalui layanan purna jual (after-sales) yang responsif, konsultasi kebutuhan armada yang akurat, serta promo dan diskon menarik untuk pembelian truk dan bus Hino. Percayakan kebutuhan kendaraan niaga Anda kepada <strong>Nisa – Dealer Hino Jabodetabek Terpercaya</strong>, dan rasakan pengalaman membeli truk dan bus Hino yang aman, cepat, nyaman, serta menguntungkan untuk usaha Anda.
+            </p>
+            <p>
+            Hubungi <strong>Nisa Sales Hino</strong> sekarang juga untuk mendapatkan <strong>penawaran harga Hino terbaik 2025</strong>, promo kredit ringan, dan informasi lengkap seputar <strong>truk Hino terbaru</strong>. Nisa siap membantu Anda menemukan kendaraan Hino yang paling sesuai dengan kebutuhan bisnis di Jakarta, Tangerang, Bekasi, Bogor, dan seluruh area Jabodetabek.
             </p>
             <div class="contact-buttons">
               <a href="https://wa.me/6285975287684" class="btn whatsapp-btn"><i class="fab fa-whatsapp"></i> +62 859-7528-7684</a>
