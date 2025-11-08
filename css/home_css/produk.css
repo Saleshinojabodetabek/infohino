@@ -1,7 +1,7 @@
 /* === PRODUCTS SECTION === */
 .products-section {
   text-align: center;
-  margin: 80px auto 3rem; /* 🔹 tambah jarak atas (4rem) */
+  margin: 180px auto 4rem; /* 🔹 tambah jarak atas (4rem) */
   padding: 0rem 1rem; /* 🔹 padding atas 2rem untuk ruang dalam */
 }
 
