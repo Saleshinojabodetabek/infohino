@@ -179,7 +179,7 @@ $artikel = array_slice($artikelData, $offset, $perPage);
             <?php foreach ($artikel as $row): ?>
               <div class="blog-post">
                 <img 
-                  src="https://infohino.com/admin/uploads/artikel/<?= htmlspecialchars($row['gambar']) ?>" 
+                  src="<?= htmlspecialchars($row['gambar']) ?>" 
                   alt="<?= htmlspecialchars($row['judul']) ?>"
                   loading="lazy"
                 />
