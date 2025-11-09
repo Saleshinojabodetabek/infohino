@@ -171,7 +171,7 @@ try {
     </section>
     
     <!-- Hino Banner Section -->
-    <section class="hino-banner-section">
+    <section id="hino-banner-section" class="hino-banner-section fade-element">
       <div class="hino-banner-container">
         <div class="hino-banner">
           <img src="img/dealer-hino-tangerang-promo1.jpg" alt="Jaringan Dealer Hino">
