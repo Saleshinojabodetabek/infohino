@@ -10,7 +10,7 @@
     <!-- ✅ Meta Description -->
     <meta
       name="description"
-      content="Dealer Hino Tangerang Resmi - Hubungi 0812 1905 5571 untuk informasi Hino 300 Series, harga, promo, dan pemesanan unit terbaru. Layanan cepat & terpercaya."
+      content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 300 Series, harga, promo, dan pemesanan unit terbaru. Layanan cepat & terpercaya."
     />
 
     <!-- ✅ Meta Keywords -->
@@ -20,7 +20,7 @@
     />
 
     <!-- ✅ Canonical URL -->
-    <link rel="canonical" href="https://official-hino.com/hino300.php" />
+    <link rel="canonical" href="https://infohino.com/hino300.php" />
 
     <!-- ✅ Robots -->
     <meta name="robots" content="index, follow" />
@@ -32,10 +32,10 @@
     <!-- ✅ Open Graph (Facebook, WhatsApp, LinkedIn, dsb) -->
     <meta property="og:site_name" content="Dealer Hino Tangerang" />
     <meta property="og:title" content="Dealer Hino Tangerang | Hino 300 Series Resmi" />
-    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0812 1905 5571 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
-    <meta property="og:url" content="https://official-hino.com/hino300.php" />
+    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
+    <meta property="og:url" content="https://infohino.com/hino300.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://official-hino.com/img/hino.png" />
+    <meta property="og:image" content="https://infohino.com/img/hino.png" />
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />
@@ -93,7 +93,7 @@
       <header>
         <div class="container header-content navbar">
           <div class="header-title">
-            <a href="https://official-hino.com">
+            <a href="https://infohino.com">
               <img src="img/logo3.png" alt="Logo Hino" style="height: 60px" />
             </a>
           </div>
@@ -127,7 +127,7 @@
         <div class="gallery">
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115SD"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115SD"
             >
               <img src="img/300series/115SDL.png" alt="UC" />
               <p>Hino Dutro 115 SD</p>
@@ -135,7 +135,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115SDR"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115SDR"
             >
               <img src="img/300series/115SDR.png" alt="HW" />
               <p>Hino Dutro 115 SDR</p>
@@ -143,7 +143,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115SDL"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115SDL"
             >
               <img src="img/300series/115SDL.png" alt="CH" />
               <p>Hino Dutro 115 SDL</p>
@@ -151,7 +151,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115LD"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115LD"
             >
               <img src="img/300series/115LD.png" alt="BR" />
               <p>Hino Dutro 115 LD</p>
@@ -159,7 +159,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115HD"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20115HD"
             >
               <img src="img/300series/115HD.png" alt="CS" />
               <p>Hino Dutro 115 HD</p>
@@ -167,7 +167,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136MD"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136MD"
             >
               <img src="img/300series/136MD.png" alt="LG" />
               <p>Hino Dutro 136 MD</p>
@@ -175,7 +175,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136MDL"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136MDL"
             >
               <img src="img/300series/136MDL.png" alt="EP" />
               <p>Hino Dutro 136 MDL</p>
@@ -183,7 +183,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136MDL"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136MDL"
             >
               <img src="img/300series/136-MDLR.png" alt="EP" />
               <p>Hino Dutro 136 MDLR</p>
@@ -191,7 +191,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136HD"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136HD"
             >
               <img src="img/300series/136 HDX Plantation.png" alt="EG" />
               <p>Hino Dutro 136 HD</p>
@@ -199,7 +199,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136HDL"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136HDL"
             >
               <img src="img/300series/136 HDL 6x2.png" alt="MP" />
               <p>Hino Dutro 136 HDL</p>
@@ -207,7 +207,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136HDX%20Mixer"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Dutro%20136HDX%20Mixer"
             >
               <img src="img/300series/136HDX Mixer.png" alt="GS" />
               <p>Hino Dutro 136 HDX Mixer</p>
@@ -220,7 +220,7 @@
       <div class="cta-full">
         <h2>Tidak menemukan apa yang kamu cari?</h2>
         <a
-          href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Produk"
+          href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Produk"
           class="cta-full-button"
           >Hubungi Kami</a
         >
