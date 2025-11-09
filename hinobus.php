@@ -221,9 +221,9 @@
     <!-- Footer -->
     <?php include 'footer.php'; ?>
 
-    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat -->
+    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat
     <script src="https://elfsightcdn.com/platform.js" async></script>
-    <div class="elfsight-app-b334841b-ad07-411c-889b-4364272215a1" data-elfsight-app-lazy></div>
+    <div class="elfsight-app-b334841b-ad07-411c-889b-4364272215a1" data-elfsight-app-lazy></div> -->
 
     <!-- Feather Icons Init -->
     <script>
