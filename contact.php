@@ -48,22 +48,22 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <!-- Meta Description -->
     <meta
       name="description"
-      content="Hino Official - Dealer Hino Tangerang. Hubungi : 0812 1905 5571 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu."
+      content="Hino Official - Dealer Hino Tangerang. Hubungi : 0819 1119 0933 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu."
     />
 
     <!-- ✅ Open Graph (Facebook, WhatsApp, LinkedIn, dsb) -->
     <meta property="og:site_name" content="Dealer Hino Tangerang" />
     <meta property="og:title" content="Dealer Hino Tangerang | Hino Contact Resmi" />
-    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0812 1905 5571 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
-    <meta property="og:url" content="https://official-hino.com/contact.php" />
+    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
+    <meta property="og:url" content="https://infohino.com/contact.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://official-hino.com/img/hino.png" />
+    <meta property="og:image" content="https://infohino.com/img/hino.png" />
 
     <!-- Meta Keywords -->
     <meta name="keywords" content="sales Hino, sales Hino Jakarta, sales Hino Jabodetabek, sales Hino Tangerang, sales Hino Bekasi, sales Hino Depok, sales Hino Bogor, sales Hino, dealer Hino, dealer Hino Jabodetabek, dealer Hino Tangerang, dealer Hino Bekasi, dealer Hino Depok, dealer Hino Bogor, dealer Hino, dealer Hino resmi, dealer Hino Jakarta, dealer Hino Indonesia, jual truk Hino, kredit truk Hino, cicilan truk Hino, promo truk Hino, harga truk Hino terbaru, diskon truk Hino, truk Hino Dutro, truk Hino 300, truk Hino 500, Hino Dutro 136 HD, Hino Dutro 4x4, Hino Dutro box, Hino Dutro engkel, spesifikasi Hino Dutro, modifikasi truk Hino, gambar truk Hino, keunggulan truk Hino, truk Hino untuk bisnis, truk Hino untuk logistik, perbandingan truk Hino dan Isuzu Elf, dealer truk Hino termurah, dealer truk hino tangerang, dealer hino cikupa, hino cikupa, dealer hino tangerang murah" />
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://official-hino.com/contact.php" />
+    <link rel="canonical" href="https://infohino.com/contact.php" />
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8BPF492E6Z"></script>
@@ -93,7 +93,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <header>
       <div class="container header-content navbar">
         <div class="header-title">
-          <a href="https://official-hino.com">
+          <a href="https://infohino.com">
             <img src="img/logo3.png" alt="Logo Hino" style="height: 60px" />
           </a>
         </div>
@@ -140,7 +140,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         </div>
 
         <div class="map1">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.4165925685147!2d106.4925165!3d-6.2086551000000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e42014b1ba54cb5%3A0x8cbdfa3c0d9e5809!2sDealer%20Hino%20Cikupa!5e0!3m2!1sid!2sid!4v1761059143239!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3967.0010775345127!2d106.72798237498958!3d-6.130555693856223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f70ab03b3611%3A0x2e6e345ac4d4fd04!2sHINO%20CENGKARENG%20(DGMI)!5e0!3m2!1sid!2sid!4v1762590699365!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </div>

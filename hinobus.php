@@ -10,7 +10,7 @@
     <!-- ✅ Meta Description -->
     <meta
       name="description"
-      content="Dealer Hino Tangerang Resmi - Hubungi 0812 1905 5571 untuk informasi Hino Bus Series, harga, promo, dan pemesanan unit terbaru. Layanan cepat & terpercaya."
+      content="Dealer Hino Tangerang Resmi - Hubungi 081911190933 untuk informasi Hino Bus Series, harga, promo, dan pemesanan unit terbaru. Layanan cepat & terpercaya."
     />
 
     <!-- ✅ Meta Keywords -->
@@ -20,7 +20,7 @@
     />
 
     <!-- ✅ Canonical URL -->
-    <link rel="canonical" href="https://official-hino.com/hinobus.php" />
+    <link rel="canonical" href="https://infohino.com/hinobus.php" />
 
     <!-- ✅ Robots -->
     <meta name="robots" content="index, follow" />
@@ -32,10 +32,10 @@
     <!-- ✅ Open Graph (Facebook, WhatsApp, LinkedIn, dsb) -->
     <meta property="og:site_name" content="Dealer Hino Tangerang" />
     <meta property="og:title" content="Dealer Hino Tangerang | Hino Bus Series Resmi" />
-    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0812 1905 5571 untuk informasi Hino Bus Series, harga, dan promo terbaru." />
-    <meta property="og:url" content="https://official-hino.com/hinobus.php" />
+    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 081911190933 untuk informasi Hino Bus Series, harga, dan promo terbaru." />
+    <meta property="og:url" content="https://infohino.com/hinobus.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://official-hino.com/img/hino.png" />
+    <meta property="og:image" content="https://infohino.com/img/hino.png" />
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />
@@ -92,7 +92,7 @@
       <header>
         <div class="container header-content navbar">
           <div class="header-title">
-            <a href="https://official-hino.com">
+            <a href="https://infohino.com">
               <img src="img/logo3.png" alt="Logo Hino" style="height: 60px" />
             </a>
           </div>
@@ -125,7 +125,7 @@
           <!-- Produk Bus -->
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20115SDB"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20115SDB"
             >
               <img src="img/busseries/115SDB.png" alt="UC" />
               <p>115 SDB STD - Euro 4</p>
@@ -133,7 +133,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20115SDBL"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20115SDBL"
             >
               <img src="img/busseries/115SDB.png" alt="HW" />
               <p>115 SDBL STD - Euro 4</p>
@@ -141,7 +141,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20136MDBL"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20136MDBL"
             >
               <img src="img/busseries/136MDBL.png" alt="CH" />
               <p>136 MDBL STD - Euro 4</p>
@@ -149,7 +149,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150"
             >
               <img src="img/busseries/136MDBL.png" alt="BR" />
               <p>GB150 - Euro 4</p>
@@ -157,7 +157,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150L"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150L"
             >
               <img src="img/busseries/136MDBL.png" alt="CS" />
               <p>GB150 L - Euro 4</p>
@@ -165,7 +165,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150AT"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150AT"
             >
               <img src="img/busseries/136MDBL.png" alt="CS" />
               <p>GB150 AT - Euro 4</p>
@@ -173,7 +173,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150LAT"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20GB150LAT"
             >
               <img src="img/busseries/136MDBL.png" alt="LG" />
               <p>GB150 L AT - Euro 4</p>
@@ -181,7 +181,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20AK240"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20AK240"
             >
               <img src="img/busseries/AK240STD.png" alt="EP" />
               <p>AK240 STD - Euro 4</p>
@@ -189,7 +189,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20RK280"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20RK280"
             >
               <img src="img/busseries/RK280.png" alt="EG" />
               <p>RK280 STD - Euro 4</p>
@@ -197,7 +197,7 @@
           </div>
           <div class="gallery-item">
             <a
-              href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20RM280"
+              href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Hino%20Bus%20RM280"
             >
               <img src="img/busseries/RK280.png" alt="MP" />
               <p>RM280 STD - Euro 4</p>
@@ -210,7 +210,7 @@
       <div class="cta-full">
         <h2>Tidak menemukan apa yang kamu cari?</h2>
         <a
-          href="https://wa.me/+6281219055571?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Produk"
+          href="https://wa.me/+6281911190933?text=Halo%20Saya%20Ingin%20Menanyakan%20Tentang%20Produk"
           class="cta-full-button"
           >Hubungi Kami</a
         >

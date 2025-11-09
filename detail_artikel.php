@@ -1,7 +1,7 @@
 <?php
 // Ambil ID artikel dari URL
 $id = $_GET['id'] ?? null;
-$data = json_decode(file_get_contents("https://official-hino.com/admin/api/get_artikel.php"), true);
+$data = json_decode(file_get_contents("https://infohino.com/admin/api/get_artikel.php"), true);
 $artikel = null;
 
 // Cari artikel berdasarkan ID
@@ -23,9 +23,9 @@ if ($id && is_array($data)) {
     <meta property="og:title" content="<?= htmlspecialchars($artikel['judul']) ?>" />
     <meta property="og:description" content="<?= substr(strip_tags($artikel['isi']), 0, 150) ?>..." />
     <meta property="og:image" content="<?= htmlspecialchars($artikel['gambar']) ?>" />
-    <meta property="og:url" content="https://official-hino.com/detail_artikel.php?id=<?= $artikel['id'] ?>" />
-    <title>Official Hino | Sales Hino Terbaik di Tangerang</title>
-    <meta name="description" content="Hino Official - Dealer Hino Tangerang. Hubungi : 0812 1905 5571 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu." />
+    <meta property="og:url" content="https://infohino.com/detail_artikel.php?id=<?= $artikel['id'] ?>" />
+    <title>Dealer Resmi Hino | Sales Hino Terbaik di Tangerang</title>
+    <meta name="description" content="Hino Official - Dealer Hino Tangerang. Hubungi : 0819 1119 0933 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu." />
     <link rel="icon" type="image/png" href="/img/favicon.png">
 
     <!-- Font -->
@@ -61,7 +61,7 @@ if ($id && is_array($data)) {
       <div class="container header-content navbar">
     <!-- Logo -->
     <div class="header-title">
-      <a href="https://official-hino.com">
+      <a href="https://infohino.com">
         <img src="img/logo3.png" alt="Logo Hino" style="height: 60px" />
       </a>
     </div>
