@@ -178,7 +178,11 @@ $artikel = array_slice($artikelData, $offset, $perPage);
           <?php if (is_array($artikel) && count($artikel) > 0): ?>
             <?php foreach ($artikel as $row): ?>
               <div class="blog-post">
-                <img src="<?= htmlspecialchars($row['gambar']) ?>" alt="<?= htmlspecialchars($row['judul']) ?>">
+                <img 
+                  src="https://infohino.com/admin/uploads/artikel/<?= htmlspecialchars($row['gambar']) ?>" 
+                  alt="<?= htmlspecialchars($row['judul']) ?>"
+                  loading="lazy"
+                />
                 <h2>
                   <a href="detail_artikel.php?id=<?= urlencode($row['id']) ?>">
                     <?= htmlspecialchars($row['judul']) ?>
