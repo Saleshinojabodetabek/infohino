@@ -149,41 +149,35 @@
 
 /* Layanan Banner */
 .hino-banner-section {
-  background-color: #111;
-  padding: 40px 0 60px; /* 🔹 tambahkan ruang bawah (60px) */
-  margin-bottom: 80px; /* 🔹 beri jarak antar section */
+  padding: 0; /* Hilangkan padding */
+  margin: 0; /* Hilangkan margin */
+  background: none; /* Tidak ada background hitam */
 }
 
 .hino-banner-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  width: 90%;
-  max-width: 1300px;
-  margin: 0 auto;
+  display: block; /* Gambar ditampilkan ke bawah satu-satu */
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+}
+
+.hino-banner {
+  width: 100%;
 }
 
 .hino-banner img {
   width: 100%;
   height: auto;
-  border-radius: 16px;
+  display: block; /* Hilangkan ruang kecil di bawah gambar */
+  border-radius: 0; /* Tidak ada rounding */
   object-fit: cover;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  transform: none !important;
+  box-shadow: none !important;
 }
 
-.hino-banner img:hover {
-  transform: scale(1.03);
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.5);
-}
-
-/* Responsif untuk tablet dan HP */
+/* Responsif – tetap sama */
 @media (max-width: 900px) {
-  .hino-banner-container {
-    grid-template-columns: 1fr;
-  }
-
   .hino-banner img {
-    border-radius: 12px;
+    border-radius: 0;
   }
 }
