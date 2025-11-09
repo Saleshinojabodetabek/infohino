@@ -160,7 +160,7 @@ try {
             <h3>LAYANAN SERVICE</h3>
             <a href="contact.php" class="hino-btn">SELENGKAPNYA</a>
           </div>
-
+          
           <div class="hino-card">
             <img src="img/bannersparepart.jpg" alt="Spare Part" />
             <h3>SPARE PART</h3>
@@ -169,7 +169,19 @@ try {
         </div>
       </div>
     </section>
-
+    
+    <!-- Hino Banner Section -->
+    <section class="hino-banner-section">
+      <div class="hino-banner-container">
+        <div class="hino-banner">
+          <img src="img/dealer-hino-tangerang-promo1.jpg" alt="Jaringan Dealer Hino">
+        </div>
+        <div class="hino-banner">
+          <img src="img/dealer-hino-tangerang-layanan1.jpg" alt="Layanan Purna Jual Hino">
+        </div>
+      </div>
+    </section>
+    
     <!-- Produk -->
     <section id="products-section" class="products-section fade-element">
       <h2 class="section-title">Produk Truk Hino Unggulan</h2>
@@ -200,17 +212,6 @@ try {
       </div>
     </section>
 
-    <!-- Hino Banner Section -->
-    <section class="hino-banner-section">
-      <div class="hino-banner-container">
-        <div class="hino-banner">
-          <img src="img/dealer-hino-tangerang-promo1.jpg" alt="Jaringan Dealer Hino">
-        </div>
-        <div class="hino-banner">
-          <img src="img/dealer-hino-tangerang-layanan1.jpg" alt="Layanan Purna Jual Hino">
-        </div>
-      </div>
-    </section>
 
     <!-- Contact Section -->
     <div class="contact-container fade-element">
