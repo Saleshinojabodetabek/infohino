@@ -29,13 +29,13 @@
     <meta name="application-name" content="Dealer Hino Tangerang" />
     <meta name="apple-mobile-web-app-title" content="Dealer Hino Tangerang" />
 
-    <!-- ✅ Open Graph (Facebook, WhatsApp, LinkedIn, dsb) -->
-    <meta property="og:site_name" content="Dealer Hino Tangerang" />
-    <meta property="og:title" content="Dealer Hino Tangerang | Hino 300 Series Resmi" />
-    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
-    <meta property="og:url" content="https://infohino.com/hino300.php" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://infohino.com/img/hino.png" />
+    <!-- ✅ Open Graph untuk tampilan di Google / Facebook / WhatsApp -->
+    <meta property="og:site_name" content="Dealer Hino Jakarta Barat">
+    <meta property="og:title" content="Dealer Hino Jakarta Barat | Info Pemesanan Hubungi 0819-1119-0933">
+    <meta property="og:description" content="Dealer Hino Jakarta Barat Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
+    <meta property="og:url" content="https://infohino.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://infohino.com/img/hino.png">
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />

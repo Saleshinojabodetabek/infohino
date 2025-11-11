@@ -5,13 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- ✅ Title -->
-    <title>Dealer Hino Tangerang | Hino 500 Series Resmi</title>
+    <title>Dealer Hino Resmi Jakarta Barat | Hino 500 Series Resmi</title>
 
     <!-- ✅ Meta Description -->
-    <meta
-      name="description"
-      content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 500 Series, harga, promo, dan pemesanan unit terbaru. Layanan cepat & terpercaya."
-    />
+    <meta name="description" content="Dealer Hino Resmi Jakarta Barat — Hubungi 0819-1119-0933 untuk info harga, promo, dan pembelian truk Hino di wilayah Tangerang dan sekitarnya. Layanan cepat dan terpercaDealer Resmi Hino Jakarta & Tangerang. Hubungi Nisa Hino 0819-1119-0933 Untuk Pembelian Truk Hino, Harga Hino, Show Unit, dan Promo Menarik Hino Lain nya.">
 
     <!-- ✅ Meta Keywords -->
     <meta
@@ -29,13 +26,13 @@
     <meta name="application-name" content="Dealer Hino Tangerang" />
     <meta name="apple-mobile-web-app-title" content="Dealer Hino Tangerang" />
 
-    <!-- ✅ Open Graph (Facebook, WhatsApp, LinkedIn, dsb) -->
-    <meta property="og:site_name" content="Dealer Hino Tangerang" />
-    <meta property="og:title" content="Dealer Hino Tangerang | Hino 500 Series Resmi" />
-    <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
-    <meta property="og:url" content="https://infohino.com/hino500.php" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://infohino.com/img/hino.png" />
+    <!-- ✅ Open Graph untuk tampilan di Google / Facebook / WhatsApp -->
+    <meta property="og:site_name" content="Dealer Hino Jakarta Barat">
+    <meta property="og:title" content="Dealer Hino Jakarta Barat | Info Pemesanan Hubungi 0819-1119-0933">
+    <meta property="og:description" content="Dealer Hino Jakarta Barat Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
+    <meta property="og:url" content="https://infohino.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://infohino.com/img/hino.png">
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />
