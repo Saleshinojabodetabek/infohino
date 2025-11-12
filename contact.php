@@ -63,13 +63,13 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <link rel="canonical" href="https://infohino.com/contact.php" />
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8BPF492E6Z"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SMHK88TQ99"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-8BPF492E6Z');
+      gtag('config', 'G-SMHK88TQ99');
     </script>
 
     <meta name="robots" content="index, follow" />
@@ -145,9 +145,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <!-- Footer -->
     <?php include 'footer.php'; ?>
 
-    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat
+    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat -->
     <script src="https://elfsightcdn.com/platform.js" async></script>
-    <div class="elfsight-app-b334841b-ad07-411c-889b-4364272215a1" data-elfsight-app-lazy></div> -->
+    <div class="elfsight-app-ab4c6b16-5f0f-422d-8e1c-4b37ae4bb0a7" data-elfsight-app-lazy></div>
 
     <!-- Feather Icons -->
     <script>feather.replace();</script>

@@ -30,8 +30,8 @@ $artikel = array_slice($artikelData, $offset, $perPage);
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Info dan Promo Hino Terbaru | Hino Official</title>
-    <meta name="description" content="Hino Official - Dealer Hino Tangerang. Hubungi : 0819 1119 0933 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu." />
+    <title>Info dan Promo Hino Terbaru | Dealer Hino Resmi</title>
+    <meta name="description" content="Dealer Resmi Hino Jakarta. Hubungi : 0819 1119 0933 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu." />
     <link rel="icon" type="image/png" href="/img/favicon.png" />
     <!-- Meta Keywords -->
     <meta name="keywords" content="sales Hino, sales Hino Jakarta, sales Hino Jabodetabek, sales Hino Tangerang, sales Hino Bekasi, sales Hino Depok, sales Hino Bogor, sales Hino, dealer Hino, dealer Hino Jabodetabek, dealer Hino Tangerang, dealer Hino Bekasi, dealer Hino Depok, dealer Hino Bogor, dealer Hino, dealer Hino resmi, dealer Hino Jakarta, dealer Hino Indonesia, jual truk Hino, kredit truk Hino, cicilan truk Hino, promo truk Hino, harga truk Hino terbaru, diskon truk Hino, truk Hino Dutro, truk Hino 300, truk Hino 500, Hino Dutro 136 HD, Hino Dutro 4x4, Hino Dutro box, Hino Dutro engkel, spesifikasi Hino Dutro, modifikasi truk Hino, gambar truk Hino, keunggulan truk Hino, truk Hino untuk bisnis, truk Hino untuk logistik, perbandingan truk Hino dan Isuzu Elf, dealer truk Hino termurah, dealer truk hino tangerang, dealer hino cikupa, hino cikupa, dealer hino tangerang murah" />
@@ -44,13 +44,13 @@ $artikel = array_slice($artikelData, $offset, $perPage);
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://infohino.com/img/hino.png" />
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8BPF492E6Z"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SMHK88TQ99"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-8BPF492E6Z');
+      gtag('config', 'G-SMHK88TQ99');
     </script>
 
     <link rel="stylesheet" href="css/style.css" />
@@ -213,9 +213,9 @@ $artikel = array_slice($artikelData, $offset, $perPage);
     <!-- Footer -->
     <?php include 'footer.php'; ?>
 
-    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat
+    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat -->
     <script src="https://elfsightcdn.com/platform.js" async></script>
-    <div class="elfsight-app-b334841b-ad07-411c-889b-4364272215a1" data-elfsight-app-lazy></div> -->
+    <div class="elfsight-app-ab4c6b16-5f0f-422d-8e1c-4b37ae4bb0a7" data-elfsight-app-lazy></div>
 
     <script>feather.replace();</script>
   </body>

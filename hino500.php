@@ -70,13 +70,14 @@
       }
     </style>
 
-    <!-- ✅ Google Tag -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8BPF492E6Z"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SMHK88TQ99"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-8BPF492E6Z');
+
+      gtag('config', 'G-SMHK88TQ99');
     </script>
 
     <!-- ✅ JS -->
@@ -330,9 +331,9 @@
     <!-- Footer -->
     <?php include 'footer.php'; ?>
 
-    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat
+    <!-- Elfsight WhatsApp Chat | Untitled WhatsApp Chat -->
     <script src="https://elfsightcdn.com/platform.js" async></script>
-    <div class="elfsight-app-b334841b-ad07-411c-889b-4364272215a1" data-elfsight-app-lazy></div> -->
+    <div class="elfsight-app-ab4c6b16-5f0f-422d-8e1c-4b37ae4bb0a7" data-elfsight-app-lazy></div>
 
     <!-- Feather Icons -->
     <script>
