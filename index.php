@@ -244,7 +244,7 @@ try {
           <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" />
           <div>
             <strong>Email</strong><br />
-            29hairun.nisa@gmail.com
+            info.hino29@gmail.com
           </div>
         </div>
       </div>
