@@ -11,7 +11,7 @@
         <div class="footer-section">
           <h4>HUBUNGI KAMI</h4>
           <p>📞 0819-1119-0933</p>
-          <p>📧 29hairun.nisa@gmail.com</p>
+          <p>📧 info.hino29@gmail.com</p>
           <p>📍 Golf Lake Ruko Venice, Jl. Outer Ring Road No.78 Blok B, RT.9/RW.14, Cengkareng Tim., Kecamatan Cengkareng, JAKARTA, Daerah Khusus Ibukota Jakarta 11730</p>
           <div class="footer-social">
             <h4>SOSIAL MEDIA</h4>
