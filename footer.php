@@ -22,9 +22,6 @@
             <a href="https://wa.me/+6281911190933?text=Halo%20Saya%20Dapat%20Nomor%20Anda%20Dari%20Google" target="_blank" aria-label="WhatsApp Hino Official">
               <i data-feather="phone"></i>
             </a>
-            <a href="#" target="_blank" aria-label="Facebook Hino Official">
-              <i data-feather="facebook"></i>
-            </a>
           </div>
           </div>
         </div>
