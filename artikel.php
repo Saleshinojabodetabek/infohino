@@ -42,7 +42,7 @@ $artikel = array_slice($artikelData, $offset, $perPage);
     <meta property="og:description" content="Dealer Hino Tangerang Resmi - Hubungi 0819 1119 0933 untuk informasi Hino 500 Series, harga, dan promo terbaru." />
     <meta property="og:url" content="https://infohino.com/artikel.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://infohino.com/img/hino.png" />
+    <meta property="og:image" content="https://infohino.com/img/mpo.jpeg" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SMHK88TQ99"></script>
     <script>

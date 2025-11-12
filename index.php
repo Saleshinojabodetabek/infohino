@@ -48,8 +48,8 @@ try {
     <link rel="canonical" href="https://infohino.com/" />
 
     <!-- ✅ Tambahkan ini agar judul 'Dealer Hino Jakarta Barat muncul di atas domain (seperti di Indomobil Hino) -->
-    <meta name="application-name" content="Dealer Hino Jakarta Barat">
-    <meta name="apple-mobile-web-app-title" content="Dealer Hino Jakarta Barat">
+    <meta name="application-name" content="Dealer Resmi Hino Jakarta">
+    <meta name="apple-mobile-web-app-title" content="Dealer Resmi Hino Jakarta">
 
     <!-- ✅ Open Graph untuk tampilan di Google / Facebook / WhatsApp -->
     <meta property="og:site_name" content="Dealer Hino Jakarta Barat">
@@ -57,7 +57,7 @@ try {
     <meta property="og:description" content="Dealer Hino Jakarta Barat Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
     <meta property="og:url" content="https://infohino.com/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://infohino.com/img/hino.png">
+    <meta property="og:image" content="https://infohino.com/img/mpo.jpeg">
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />

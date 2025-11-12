@@ -35,7 +35,7 @@
     <meta property="og:description" content="Dealer Hino Jakarta Barat Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
     <meta property="og:url" content="https://infohino.com/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://infohino.com/img/hino.png">
+    <meta property="og:image" content="https://infohino.com/img/mpo.jpeg">
 
     <!-- ✅ Favicon -->
     <link rel="icon" type="image/png" href="/img/favicon.png" />
