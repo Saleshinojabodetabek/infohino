@@ -16,7 +16,7 @@
           <div class="footer-social">
             <h4>SOSIAL MEDIA</h4>
           <div class="social-icons">
-            <a href="#" target="_blank" aria-label="Instagram Hino Official">
+            <a href="https://www.instagram.com/info.hino29" target="_blank" aria-label="Instagram Hino Official">
               <i data-feather="instagram"></i>
             </a>
             <a href="https://wa.me/+6281911190933?text=Halo%20Saya%20Dapat%20Nomor%20Anda%20Dari%20Google" target="_blank" aria-label="WhatsApp Hino Official">
