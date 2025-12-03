@@ -60,8 +60,8 @@ try {
     <meta property="og:image" content="https://infohino.com/img/mpo.jpeg">
 
     <!-- ✅ Favicon -->
-    <link rel="icon" type="image/png" href="/img/favicon-HINO.png" />
-    <link rel="apple-touch-icon" href="/img/favicon-HINO.png" />
+    <link rel="icon" type="image/png" href="/img/Favicon-HINO.png" />
+    <link rel="apple-touch-icon" href="/img/Favicon-HINO.png" />
 
     <!-- ✅ Fonts & CSS -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap" rel="stylesheet" />
