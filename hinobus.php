@@ -38,8 +38,8 @@
     <meta property="og:image" content="https://infohino.com/img/mpo.jpeg">
 
     <!-- ✅ Favicon -->
-    <link rel="icon" type="image/png" href="/img/favicon.png" />
-    <link rel="apple-touch-icon" href="/img/favicon.png" />
+    <link rel="icon" type="image/png" href="/img/Favicon-HINO.png" />
+    <link rel="apple-touch-icon" href="/img/Favicon-HINO.png" />
 
     <!-- ✅ Font -->
     <link
