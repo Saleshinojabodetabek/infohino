@@ -119,11 +119,11 @@ $artikel = array_slice($artikelData, $offset, $perPage);
         <div class="hamburger-menu">&#9776;</div>
         <nav class="nav links">
           <a href="/">Home</a>
-          <a href="hino300">Hino 300 Series</a>
-          <a href="hino500">Hino 500 Series</a>
-          <a href="hinobus">Hino Bus Series</a>
-          <a href="artikel">Blog & Artikel</a>
-          <a href="contact">Contact</a>
+          <a href="/hino300">Hino 300 Series</a>
+          <a href="/hino500">Hino 500 Series</a>
+          <a href="/hinobus">Hino Bus Series</a>
+          <a href="/artikel">Blog & Artikel</a>
+          <a href="/contact">Contact</a>
         </nav>
       </div>
     </header>
