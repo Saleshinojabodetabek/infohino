@@ -43,15 +43,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hubungi Kami | Hino Official</title>
+    <title>Hubungi Kami | Nisa Hino </title>
 
     <!-- Meta Description -->
     <meta name="description" content="Dealer Hino Resmi Jakarta Barat — Hubungi 0819-1119-0933 untuk info harga, promo, dan pembelian truk Hino di wilayah Tangerang dan sekitarnya. Layanan cepat dan terpercaDealer Resmi Hino Jakarta & Tangerang. Hubungi Nisa Hino 0819-1119-0933 Untuk Pembelian Truk Hino, Harga Hino, Show Unit, dan Promo Menarik Hino Lain nya.">
 
     <!-- ✅ Open Graph untuk tampilan di Google / Facebook / WhatsApp -->
     <meta property="og:site_name" content="Dealer Hino Jakarta Barat">
-    <meta property="og:title" content="Dealer Hino Jakarta Barat | Info Pemesanan Hubungi 0819-1119-0933">
-    <meta property="og:description" content="Dealer Hino Jakarta Barat Resmi. Hubungi 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
+    <meta property="og:title" content="Dealer Hino Jakarta Barat | Info Pemesanan Hubungi Nisa Hino 0819-1119-0933">
+    <meta property="og:description" content="Dealer Hino Jakarta Barat Resmi. Hubungi Nisa Hino 0819-1119-0933 untuk promo dan harga truk Hino terbaru.">
     <meta property="og:url" content="https://infohino.com/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://infohino.com/img/mpo.jpeg">
@@ -73,7 +73,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     </script>
 
     <meta name="robots" content="index, follow" />
-    <link rel="icon" type="image/png" href="/img/favicon.png" />
+    <link rel="icon" type="image/png" href="/img/Favicon-HINO.png" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap" rel="stylesheet" />
     <link rel="icon" type="image/png" href="img/logo.png" />
     <link rel="stylesheet" href="css/style.css" />
