@@ -41,7 +41,7 @@ try {
 
     <!-- ✅ Deskripsi SEO -->
     <meta name="description" content="Dealer Hino Resmi Jakarta Barat — Hubungi 0819-1119-0933 untuk info harga, promo, dan pembelian truk Hino di wilayah Tangerang dan sekitarnya. Layanan cepat dan terpercaDealer Resmi Hino Jakarta & Tangerang. Hubungi Nisa Hino 0819-1119-0933 Untuk Pembelian Truk Hino, Harga Hino, Show Unit, dan Promo Menarik Hino Lain nya.">
-    <meta name="keywords" content="dealer hino tangerang, hino tangerang, sales hino tangerang, harga truk hino, promo hino, kredit truk hino, hino resmi tangerang, dealer resmi jakarta, dealer hino jakarta, dealer truk hino, beli truk hino, showroom hino terdekat, dealer resmi hino, harga hini 300, harga hino500, hino tronton, hino jakarta">
+    <meta name="keywords" content="dealer hino jakarta, hino tangerang, dealer resmi hino, info truk hino, promo hino, kredit truk hino, hino resmi tangerang, dealer resmi jakarta, dealer hino jakarta, dealer truk hino, beli truk hino, showroom hino terdekat, dealer resmi hino, harga hini 300, harga hino500, hino tronton, hino jakarta">
     <meta name="author" content="Dealer Hino Resmi Jakarta Barat">
 
     <!-- ✅ Canonical URL -->
