@@ -26,7 +26,7 @@ if ($id && is_array($data)) {
     <meta property="og:url" content="https://infohino.com/detail_artikel.php?id=<?= $artikel['id'] ?>" />
     <title>Dealer Resmi Hino | Sales Hino Terbaik di Tangerang</title>
     <meta name="description" content="Hino Official - Dealer Hino Tangerang. Hubungi : 0819 1119 0933 Untuk mendapatkan informasi produk Hino. Layanan Terbaik dan Jaminan Mutu." />
-    <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="icon" type="image/png" href="/img/Favicon-HINO.png">
 
     <!-- Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap" rel="stylesheet" />
