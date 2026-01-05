@@ -25,19 +25,21 @@ try {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17798394558"></script>
+<!-- Event snippet for Website lead conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-17798394558');
-</script>
-
-<!-- Event snippet for Website lead conversion page -->
-<script>
-  gtag('event', 'conversion', {'send_to': 'AW-17798394558/8czxCKm3zNIbEL7l96ZC'});
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-17798394558/8czxCKm3zNIbEL7l96ZC',
+      'event_callback': callback
+  });
+  return false;
+}
 </script>
 
 <!-- Google tag (gtag.js) -->
