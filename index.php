@@ -40,6 +40,17 @@ try {
   gtag('event', 'conversion', {'send_to': 'AW-17798394558/8czxCKm3zNIbEL7l96ZC'});
 </script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17798394558">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17798394558');
+</script>
+
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
